@@ -2,6 +2,8 @@
 
 #### Welcome to my Github page! 
 
+![alt text](bruh.jpg)
+
 <!--
 **stephenlin35/stephenlin35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
