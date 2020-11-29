@@ -3,7 +3,7 @@
 **stephenlin35/stephenlin35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Hello there!
-- 🔭 I’m currently working on webdev using TypeScript, React, Redux.
+- 🔭 I’m currently working on webdev using TypeScript, React, and Redux.
 - 🌱 I’m currently learning Next.js and Go.
 - 😄 Pronouns: He/him
 <!--
