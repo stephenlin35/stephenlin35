@@ -4,7 +4,7 @@
 -->
 Hello there!
 - 🔭 I’m currently working on webdev using TypeScript, React, and Redux.
-- 🌱 I’m currently learning Next.js, GraphQL, and Go.
+- 🌱 I’m currently learning Next.js, GraphQL, and Kotlin.
 - 😄 Pronouns: He/him
 <!--
 - 👯 I’m looking to collaborate on ...
